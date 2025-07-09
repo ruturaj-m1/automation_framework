@@ -1,0 +1,46 @@
+# 🐍 Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 📦 Virtual Environments
+venv/
+.env/
+.env.bak/
+env/
+
+# 🛠 IDE and Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 🧪 Pytest Cache and Coverage
+.cache/
+.pytest_cache/
+htmlcov/
+
+# 📊 Pytest HTML Reports
+report*.html
+
+# 🗂 System Files
+.DS_Store
+Thumbs.db
+
+# 📜 Logs
+*.log
+logs/
+
+# 📦 Dependency Tool Artifacts
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 🧠 Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# 🧹 Temporary or Backup Files
+*.bak
+*.swp
+*.tmp
